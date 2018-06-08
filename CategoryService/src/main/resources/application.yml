@@ -1,0 +1,13 @@
+spring:
+  data:
+    mongodb:
+ #     authentication-database:
+      username: ${MONGO_USERNAME}
+      password: ${MONGO_PASSWORD}
+      database: ${MONGO_DATABASE}
+      port: ${MONGO_PORT}
+      host: ${MONGO_HOST}
+  application:
+    name: category-service
+server:
+  port: 8083

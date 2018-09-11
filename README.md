@@ -86,6 +86,12 @@ The folders and files you see in this repositories, is how it is expected to be 
 > - The code must be properly indented, code structure maintained as per the boilerplate and properly commented
 > - Follow through the problem statement shared with you
 
+### MENTORS TO BEGIN REVIEW YOUR WORK ONLY AFTER ->
+> - You add the respective Mentor as a Reporter/Master into your Assignment Repository
+> - You have checked your Assignment on the Automated Evaluation Tool - Hobbes (Check for necessary steps in your Boilerplate - README.md file. ) and got the required score - Check with your mentor about the Score you must achieve before it is accepted for Manual Submission.
+> - Intimate your Mentor on Slack and/or Send an Email to learner.support@stackroute.in - with your Git URL - Once you done working and is ready for final submission.
+
+
 ### Further Instructions on Release
 
 *** Release 0.1.0 ***

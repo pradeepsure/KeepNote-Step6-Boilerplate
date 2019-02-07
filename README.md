@@ -1,5 +1,8 @@
 ## Seed code - Boilerplate for step 6 - Keep Note Assignment
 
+## Don't submit your solution for this step in hobbes for evaluation
+## Once done with the coding, please share it with your mentor for manual review
+
 ### Assignment Step Description
 
 In this case study Keep Note Step 6, we will implement JWT (JSON Web Token) on top of Keep Note Step 5 Assignment. JSON Web Token (JWT) is an open standard (RFC 7519) that 
